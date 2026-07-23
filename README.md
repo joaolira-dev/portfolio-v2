@@ -86,20 +86,6 @@ portfolio-v2/
 └── package.json
 ```
 
-## Deploy na Vercel
-
-O projeto usa a estrutura padrão do Next.js e está preparado para o fluxo de
-deploy sem configuração adicional da Vercel.
-
-1. Publique este repositório no GitHub.
-2. Na Vercel, selecione **Add New → Project**.
-3. Importe o repositório `joaolira-dev/portfolio-v2`.
-4. Confirme o framework **Next.js**.
-5. Mantenha o comando de build como `npm run build`.
-6. Inicie o deploy.
-
-A URL de produção usada nos metadados é obtida automaticamente do ambiente da
-Vercel. Nenhuma variável personalizada é obrigatória.
 
 ## Contato
 
