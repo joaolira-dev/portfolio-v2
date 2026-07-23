@@ -22,14 +22,6 @@ responsiva, bilíngue e com identidade visual inspirada no espaço.
 - favicon e mascote personalizados;
 - respeito à preferência de movimento reduzido.
 
-## Projetos apresentados
-
-| Projeto | Descrição | Demo | Código |
-| --- | --- | --- | --- |
-| Pulse Training Club | Landing page premium para academia | [Acessar](https://pulse-training-club.vercel.app) | [GitHub](https://github.com/joaolira-dev/pulse-training-club) |
-| Psicóloga Nogueira | Landing page acolhedora para psicóloga | [Acessar](https://psi-nogueira.vercel.app) | [GitHub](https://github.com/joaolira-dev/psi-nogueira) |
-| Linha Norte Arquitetura | Landing page editorial para escritório de arquitetura | [Acessar](https://linha-norte-arquitetura.vercel.app) | [GitHub](https://github.com/joaolira-dev/linha-norte-arquitetura) |
-| OLX Clone | Marketplace Full Stack com anúncios e autenticação | [Acessar](https://olxclone-eta.vercel.app) | [GitHub](https://github.com/joaolira-dev/olx-project) |
 
 ## Tecnologias
 
